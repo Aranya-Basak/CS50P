@@ -1,6 +1,6 @@
 # CS50P Introduction to Python Problem solution and Final Project
 
-# CS50P – Introduction to Programming with Python
+
 
 This repository contains my solutions, notes, and exercises from Harvard's CS50P: *Introduction to Programming with Python*.
 
@@ -21,7 +21,7 @@ CS50P is a beginner-friendly course focused on programming fundamentals using Py
 
 ## 📁 Repository Structure
 
-/
+```/
 ├── Functions, Variables/        # Python syntax, functions, and variables
 ├── Conditionals/                # if-elif-else logic
 ├── Loops/                       # for loops, while loops, iteration
@@ -34,5 +34,9 @@ CS50P is a beginner-friendly course focused on programming fundamentals using Py
 ├── Project/                     # Final project for the course
 ├── README.md                    # This file
 └── LICENSE                      # License file (if added)
-
 /
+
+```
+## Acknowledgements
+Thanks to Harvard University and Professor David J. Malan for making CS50P freely available online.
+
